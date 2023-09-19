@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>
+      Jimmy
+    </name>
+    <last_name>
+      Jensen
+    </last_name>
+    <pets>
+      <pet>
+        <name>Cati</name>
+        <age>1</age>
+      </pet>
+      <pet>
+        <name>Dogi</name>
+        <age>2</age>
+      </pet>
+    </pets>
+    <siblings>
+      <sibling>
+        <name>A</name>
+        <gender>male</gender>
+        <age>10</age>
+      </sibling>
+      <sibling>
+        <name>B</name>
+        <gender>female</gender>
+        <age>12</age>
+      </sibling>
+      <sibling>
+        <name>C</name>
+        <gender>female</gender>
+        <age>20</age>
+      </sibling>
+    </siblings>
+</person>
